@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-link.png" alt="Welcome Banner" width="700">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG1tzSjn7nUsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738997048649?e=1760572800&v=beta&t=eTxWbU3R-fCkoKcnWv5kGNjqXUHAJVBDEnRiMiXYwPc" alt="Welcome Banner" width="700">
 </p>
 
 # Hi there 👋, I'm Rishika Patel
