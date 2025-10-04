@@ -25,7 +25,7 @@
 - 🔒 Passionate about cybersecurity, ethical hacking, and network defense
 - 💻 Programming: C, C++, Python, Java, JavaScript, SQL · Tools: BurpSuite, Wireshark, Nmap, Metasploit, Nessus
 - 🏆 Ranked 355th/5947 in Industrial-Intrusion CTF (TryHackMe) | Top 3% on TryHackMe
-- 🌱 Currently learning: Blockchain, AI/ML, Japanese
+- 🌱 Currently learning: Reverse Engineering and Malware Analysis, Japanese and Bug Bounty.
 
 ## 💼 Experience & Certifications
 
