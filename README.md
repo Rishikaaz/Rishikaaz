@@ -23,7 +23,6 @@
 - 🌱 **Currently learning:** Japanese (with an ongoing streak of 180 days on Duolingo).
 
 ---
----
 
 ## 🛠️ Tools & Languages
 
@@ -31,27 +30,27 @@
 
 | Category | Languages / Frameworks / OS |
 | :--- | :--- |
-| **Programming** | [cite_start]C, C++, Python, Java, JavaScript, Bash, PL/SQL [cite: 14] |
-| **Database** | [cite_start]SQL, MySQL [cite: 14, 15] |
-| **Web Dev** | [cite_start]Node.js, React.js, Express.js, Bootstrap, Tailwind, HTML, CSS [cite: 15] |
-| **Cloud/Tech** | [cite_start]Computer Networks, Network Security, OWASP, AWS (EC2, Lambda, S3, Elastic Beanstalk), Blockchain, Ethereum, Bitcoin [cite: 18, 19] |
-| **OS** | [cite_start]Windows, Linux [cite: 16] |
+| **Programming** | C, C++, Python, Java, JavaScript, Bash, PL/SQL |
+| **Database** | SQL, MySQL |
+| **Web Dev** | Node.js, React.js, Express.js, Bootstrap, Tailwind, HTML, CSS |
+| **Cloud/Tech** | Computer Networks, Network Security, OWASP, AWS (EC2, Lambda, S3, Elastic Beanstalk), Blockchain, Ethereum, Bitcoin |
+| **OS** | Windows, Linux |
 
 ### 🛡️ Security Tools
 
 | Tool Type | Tools Used |
 | :--- | :--- |
-| **Vulnerability Scanning** | [cite_start]Nessus, Nmap [cite: 17] |
-| **Interception/Analysis** | [cite_start]BurpSuite, Wireshark [cite: 17] |
-| **Exploitation/OS** | [cite_start]Metasploit, Kali [cite: 17] |
-| **Password Cracking** | [cite_start]Hashcat [cite: 17] |
+| **Vulnerability Scanning** | Nessus, Nmap |
+| **Interception/Analysis** | BurpSuite, Wireshark |
+| **Exploitation/OS** | Metasploit, Kali |
+| **Password Cracking** | Hashcat |
 
 ### 🗣️ Human Languages
 
-- [cite_start]**English** [cite: 45]
-- [cite_start]**Hindi** [cite: 45]
-- [cite_start]**Awadhi** [cite: 45]
-- [cite_start]**Japanese** (Currently learning with an ongoing streak of 180 days on Duolingo) [cite: 42, 45]
+- **English**
+- **Hindi**
+- **Awadhi**
+- **Japanese** (Currently learning with an ongoing streak of 180 days on Duolingo)
 
 ---
 
