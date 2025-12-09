@@ -22,41 +22,38 @@
 - 🏆 **CTF Ranks:** Ranked 355th/5947 in Industrial-Intrusion CTF (TryHackMe) | Top 2% on TryHackMe (Rank 38564).
 - 🌱 **Currently learning:** Japanese (with an ongoing streak of 180 days on Duolingo).
 
+---
+---
+
 ## 🛠️ Tools & Languages
 
 ### 💻 Technical Skills
 
-<p align="center">
-    <img src="https://img.shields.io/badge/C-A8B9C4?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <br>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/PL%2FSQL-E84C3D?style=for-the-badge" alt="PL/SQL" />
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <br>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+| Category | Languages / Frameworks / OS |
+| :--- | :--- |
+| **Programming** | [cite_start]C, C++, Python, Java, JavaScript, Bash, PL/SQL [cite: 14] |
+| **Database** | [cite_start]SQL, MySQL [cite: 14, 15] |
+| **Web Dev** | [cite_start]Node.js, React.js, Express.js, Bootstrap, Tailwind, HTML, CSS [cite: 15] |
+| **Cloud/Tech** | [cite_start]Computer Networks, Network Security, OWASP, AWS (EC2, Lambda, S3, Elastic Beanstalk), Blockchain, Ethereum, Bitcoin [cite: 18, 19] |
+| **OS** | [cite_start]Windows, Linux [cite: 16] |
 
 ### 🛡️ Security Tools
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/Nmap-31363B?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-    <img src="https://img.shields.io/badge/Metasploit-E92626?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-    <br>
-    <img src="https://img.shields.io/badge/Nessus-61B300?style=for-the-badge" alt="Nessus" />
-    <img src="https://img.shields.io/badge/Kali_Linux-5C42B1?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/Hashcat-F4A261?style=for-the-badge" alt="Hashcat" />
-</p>
+| Tool Type | Tools Used |
+| :--- | :--- |
+| **Vulnerability Scanning** | [cite_start]Nessus, Nmap [cite: 17] |
+| **Interception/Analysis** | [cite_start]BurpSuite, Wireshark [cite: 17] |
+| **Exploitation/OS** | [cite_start]Metasploit, Kali [cite: 17] |
+| **Password Cracking** | [cite_start]Hashcat [cite: 17] |
 
 ### 🗣️ Human Languages
 
-- **English**
-- **Hindi**
-- **Awadhi**
-- **Japanese** (Currently learning)
+- [cite_start]**English** [cite: 45]
+- [cite_start]**Hindi** [cite: 45]
+- [cite_start]**Awadhi** [cite: 45]
+- [cite_start]**Japanese** (Currently learning with an ongoing streak of 180 days on Duolingo) [cite: 42, 45]
+
+---
 
 ## 💼 Experience & Certifications
 
