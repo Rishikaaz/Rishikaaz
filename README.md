@@ -22,7 +22,7 @@
 - 🏆 **CTF Ranks:** Ranked 355th/5947 in Industrial-Intrusion CTF (TryHackMe) | Top 2% on TryHackMe (Rank 38564).
 - 🌱 **Currently learning:** Japanese (with an ongoing streak of 180 days on Duolingo).
 
- ## 🛠️ Tools & Languages
+## 🛠️ Tools & Languages
 
 ### 💻 Technical Skills
 
@@ -30,9 +30,11 @@
     ![C](https://img.shields.io/badge/C-A8B9C4?style=for-the-badge&logo=c&logoColor=black) 
     ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    <br>
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-E84C3D?style=for-the-badge)
     ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    <br>
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </p>
@@ -43,6 +45,7 @@
     ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
     ![Nmap](https://img.shields.io/badge/Nmap-31363B?style=for-the-badge&logo=nmap&logoColor=white)
     ![Metasploit](https://img.shields.io/badge/Metasploit-E92626?style=for-the-badge&logo=metasploit&logoColor=white)
+    <br>
     ![Nessus](https://img.shields.io/badge/Nessus-61B300?style=for-the-badge)
     ![Kali Linux](https://img.shields.io/badge/Kali_Linux-5C42B1?style=for-the-badge&logo=kali-linux&logoColor=white)
     ![Hashcat](https://img.shields.io/badge/Hashcat-F4A261?style=for-the-badge)
