@@ -9,7 +9,7 @@
 
 ---
 
-🎓 **B.Tech Computer Science Student | Cybersecurity Enthusiast **
+🎓 ** B.Tech Computer Science Student | Cybersecurity Enthusiast **
 
 - 🔒 Highly motivated Computer Science student with a strong passion for cybersecurity.
 - 🏆 **CTF Ranks:** Ranked 355th/5947 in Industrial-Intrusion CTF (TryHackMe) | Top 2% on TryHackMe (Rank 38564).
