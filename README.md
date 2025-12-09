@@ -9,13 +9,6 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6600?style=for-the-badge)
-![Top 2% TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-brightgreen)
-
----
-
 🎓 **B.Tech Computer Science Student | Cybersecurity Enthusiast **
 
 - 🔒 Highly motivated Computer Science student with a strong passion for cybersecurity.
