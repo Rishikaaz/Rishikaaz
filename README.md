@@ -42,7 +42,7 @@
 
 - **English**
 - **Hindi**
-- **Japanese** (Currently learning with streak of 180 days on Duolingo)
+- **Japanese**
 
 ---
 
