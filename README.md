@@ -42,8 +42,7 @@
 
 - **English**
 - **Hindi**
-- **Awadhi**
-- **Japanese** (Currently learning with an ongoing streak of 180 days on Duolingo)
+- **Japanese** (Currently learning with streak of 180 days on Duolingo)
 
 ---
 
