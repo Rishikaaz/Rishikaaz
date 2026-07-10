@@ -65,7 +65,11 @@
 ## ⚡ Core Focus & Metrics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=🎓+B.Tech+Computer+Science+and+Engineering;🔒+Specializing+in+Cybersecurity+%26+Digital+Forensics;🚀+Solved+270%2B+LeetCode+Problems;💻+Building+Containerized+SIEM+%26+ML+Pipelines" alt="Typing SVG Animation" />
+  <code>
+    <marquee behavior="scroll" direction="left" scrollamount="4" style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 18px;">
+      🎓 B.Tech Computer Science and Engineering &nbsp;&nbsp;•&nbsp;&nbsp; 🔒 Specializing in Cybersecurity & Digital Forensics &nbsp;&nbsp;•&nbsp;&nbsp; 🚀 Solved 270+ LeetCode Problems &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Building Containerized SIEM & ML Pipelines
+    </marquee>
+  </code>
 </p>
 
 ---
