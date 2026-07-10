@@ -53,13 +53,13 @@
 
 ---
 
-## 🎮 Cyber & Coding Games I Play
+## 📊 GitHub Contribution Activity
 
-When I'm not configuring labs or writing code, I use gamified challenges to keep my analytical mind sharp:
-
-* 🗺️ **OverTheWire (Wargames):** Leveling up my Linux server administration, privilege escalation, and terminal navigation fundamentals.
-* ⚔️ **CodinGame:** Fine-tuning performance optimization algorithms in `C++` and `Python` through interactive, turn-based competitive bot battles.
-* 🧩 **CryptoHack:** Writing scripts to break implementations of cryptographic ciphers, RSA, and Diffie-Hellman protocols.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake.svg">
+  <img alt="Rishika's Contribution Graph" src="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
