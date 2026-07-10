@@ -48,20 +48,6 @@
 
 ---
 
-## 🚀 Key Projects
-
-### 🛡️ Containerized HIDS & SIEM Pipeline *(May 2026)*
-* **Tech Stack:** Python, Docker, ELK stack, Scapy, Nmap
-* Architected a containerized SIEM using Docker Compose to orchestrate decoupled ELK microservices, optimizing host CPU/RAM overhead by migrating away from heavy VM environments.
-* Developed a Python HIDS sensor via Scapy to capture live network traffic, stream JSON alerts over TCP, and validate behavioral rules using simulated Nmap reconnaissance attacks.
-
-### 📊 Carbon-Emission-Prediction *(Jun - Jul 2025)*
-* **Tech Stack:** Python, Scikit-learn
-* Developed a predictive model using Python and Scikit-learn to forecast CO2 emissions based on industrial activity.
-* Performed feature engineering and data normalization, achieving high predictive accuracy for sustainability reporting and environmental impact analysis.
-
----
-
 ## 💼 Experience & Internships
 
 * **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025 | Remote)*
