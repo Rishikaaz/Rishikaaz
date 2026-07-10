@@ -62,13 +62,11 @@
 
 ---
 
-## 📊 GitHub Contribution Activity
+## 🏙️ Isometric Contribution Workspace
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake.svg">
-  <img alt="Rishika's Contribution Graph" src="https://raw.githubusercontent.com/Rishikaaz/Rishikaaz/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishikaaz&theme=radical" alt="Rishika's 3D Contributions" width="600" />
+</p>
 
 ---
 
