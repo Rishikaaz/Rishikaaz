@@ -22,7 +22,7 @@
 
 ### 💻 Technical Skills
 
-| Category | Languages / Frameworks / OS / concepts |
+| Category | Languages / Frameworks / OS / Concepts |
 | :--- | :--- |
 | **Programming** | C++, Python, Bash Scripting, C, C#, SQL, Java, JavaScript |
 | **Cloud, Container & SIEM**| AWS (EC2, Lambda, S3), Docker, ELK Stack, Splunk |
@@ -50,6 +50,16 @@
 * **Tech Stack:** Python, Scikit-learn
 * Developed a predictive machine learning model to forecast CO2 emissions based on industrial activity.
 * Performed feature engineering and data normalization, achieving high predictive accuracy for environmental sustainability reporting.
+
+---
+
+## 🎮 Cyber & Coding Games I Play
+
+When I'm not solving standard labs, I like to put my hacking and optimization skills to the test with gamified challenges:
+
+* 🗺️ **OverTheWire (Wargames):** Leveling up my Linux server administration, privileges, and raw SSH terminal security concepts (Bandit/Leviathan).
+* ⚔️ **CodinGame:** Fine-tuning my `C++` and `Python` algorithms through interactive multi-player turn-based strategy coding battles.
+* 🧩 **CryptoHack:** Diving deep into breaking cryptography implementations (RSA, Diffie-Hellman, and symmetric ciphers) using Python scripts.
 
 ---
 
