@@ -68,39 +68,6 @@
 
 ---
 
-## 🛡️ Core Metrics
-
-<table>
-  <tr>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background: #161b22;">
-      <span style="font-size: 28px;">💻</span><br/>
-      <b style="color: #58a6ff; font-size: 13px;">CSE Track</b><br/>
-      <code style="color: #39FF14; font-size: 18px; font-weight: bold; display: block; margin: 8px 0;">90%</code>
-      <code style="font-family: monospace; font-size: 10px; color: #8b949e;">[██████████]</code>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background: #161b22;">
-      <span style="font-size: 28px;">🔒</span><br/>
-      <b style="color: #58a6ff; font-size: 13px;">Cybersecurity</b><br/>
-      <code style="color: #39FF14; font-size: 18px; font-weight: bold; display: block; margin: 8px 0;">100%</code>
-      <code style="font-family: monospace; font-size: 10px; color: #8b949e;">[██████████]</code>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background: #161b22;">
-      <span style="font-size: 28px;">🚀</span><br/>
-      <b style="color: #58a6ff; font-size: 13px;">DSA Algo</b><br/>
-      <code style="color: #39FF14; font-size: 18px; font-weight: bold; display: block; margin: 8px 0;">80%</code>
-      <code style="font-family: monospace; font-size: 10px; color: #8b949e;">[██████████]</code>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 15px; border-radius: 8px; background: #161b22;">
-      <span style="font-size: 28px;">⚙️</span><br/>
-      <b style="color: #58a6ff; font-size: 13px;">ELK & SIEM</b><br/>
-      <code style="color: #39FF14; font-size: 18px; font-weight: bold; display: block; margin: 8px 0;">80%</code>
-      <code style="font-family: monospace; font-size: 10px; color: #8b949e;">[██████████]</code>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏆 Key Achievements & Certifications
 
 ### 🎯 Competitions & Honors
