@@ -9,12 +9,12 @@
 
 ---
 
-🎓 **B.Tech Computer Science & Engineering (Cybersecurity & Digital Forensics)**
+🎓 **B.Tech in Computer Science and Engineering | Cybersecurity & Digital Forensics Specialist**
 
-- 🔒 **Cybersecurity Specialist:** Deep focus on Vulnerability Assessment, Penetration Testing, Malware Analysis, and Reverse Engineering.
-- 🚀 **Problem Solver:** Solved 270+ LeetCode problems and actively competing in Codeforces contests.
+- 🔒 **Technical Lead:** Proven expertise in Vulnerability Assessment, Penetration Testing, and Malware Analysis. Experienced in deploying SIEM infrastructures and engineering ML models.
+- 🚀 **Problem Solver:** Solved 270+ LeetCode problems and actively competing in Codeforces contests (Peak Rating: 853).
 - 🏆 **CTF Accomplishments:** Top 2% globally on TryHackMe (177-day learning streak) | Ranked 355th/5947 in Industrial-Intrusion CTF.
-- 🌱 **Currently learning:** Advanced threat hunting tactics and maintaining my Japanese language streak on Duolingo.
+- 🌱 **Currently learning:** Advanced threat hunting tactics and keeping up my Japanese language streak on Duolingo.
 
 ---
 
@@ -24,9 +24,9 @@
 
 | Category | Languages / Frameworks / OS / Concepts |
 | :--- | :--- |
-| **Programming** | C++, Python, Bash Scripting, C, C#, SQL, Java, JavaScript |
-| **Cloud, Container & SIEM**| AWS (EC2, Lambda, S3), Docker, ELK Stack, Splunk |
-| **Specialized Domain** | Reverse Engineering, Malware Analysis, Computer Networks, OWASP, OSI Model |
+| **Languages** | C++, Bash Scripting, C, C#, Python, SQL |
+| **Cloud, Container & SIEM** | AWS (EC2, Lambda, S3), Docker, ELK Stack, Splunk |
+| **Specialized Domains** | Reverse Engineering, Malware Analysis, Computer Networks, OWASP, OSI Model |
 | **OS** | Linux (Kali), Windows |
 
 ### 🛡️ Security Tools
@@ -41,43 +41,54 @@
 
 ## 🚀 Key Projects
 
-### 🛡️ [Containerized HIDS & SIEM Pipeline](https://github.com/Rishikaaz)
+### 🛡️ Containerized HIDS & SIEM Pipeline *(May 2026)*
 * **Tech Stack:** Python, Docker, ELK stack, Scapy, Nmap
-* Architected a containerized SIEM using Docker Compose to orchestrate decoupled ELK microservices, optimizing host CPU/RAM overhead.
+* Architected a containerized SIEM using Docker Compose to orchestrate decoupled ELK microservices, optimizing host CPU/RAM overhead by migrating away from heavy VM environments.
 * Developed a Python HIDS sensor via Scapy to capture live network traffic, stream JSON alerts over TCP, and validate behavioral rules using simulated Nmap reconnaissance attacks.
 
-### 📊 [Carbon-Emission-Prediction](https://github.com/Rishikaaz)
+### 📊 Carbon-Emission-Prediction *(Jun - Jul 2025)*
 * **Tech Stack:** Python, Scikit-learn
-* Developed a predictive machine learning model to forecast CO2 emissions based on industrial activity.
-* Performed feature engineering and data normalization, achieving high predictive accuracy for environmental sustainability reporting.
+* Developed a predictive model using Python and Scikit-learn to forecast CO2 emissions based on industrial activity.
+* Performed feature engineering and data normalization, achieving high predictive accuracy for sustainability reporting and environmental impact analysis.
 
 ---
 
 ## 🎮 Cyber & Coding Games I Play
 
-When I'm not solving standard labs, I like to put my hacking and optimization skills to the test with gamified challenges:
+When I'm not configuring labs or writing code, I use gamified challenges to keep my analytical mind sharp:
 
-* 🗺️ **OverTheWire (Wargames):** Leveling up my Linux server administration, privileges, and raw SSH terminal security concepts (Bandit/Leviathan).
-* ⚔️ **CodinGame:** Fine-tuning my `C++` and `Python` algorithms through interactive multi-player turn-based strategy coding battles.
-* 🧩 **CryptoHack:** Diving deep into breaking cryptography implementations (RSA, Diffie-Hellman, and symmetric ciphers) using Python scripts.
+* 🗺️ **OverTheWire (Wargames):** Leveling up my Linux server administration, privilege escalation, and terminal navigation fundamentals.
+* ⚔️ **CodinGame:** Fine-tuning performance optimization algorithms in `C++` and `Python` through interactive, turn-based competitive bot battles.
+* 🧩 **CryptoHack:** Writing scripts to break implementations of cryptographic ciphers, RSA, and Diffie-Hellman protocols.
 
 ---
 
 ## 💼 Experience & Internships
 
-* **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025)*
-  * Applied practical ethical hacking techniques to simulate real-world attacks and recommended proactive remediation strategies.
-* **Green Skills with AI Technologies Intern** | Edunet Foundation *(Jun 2025 - Jul 2025)*
-  * Evaluated AI-driven solutions for optimizing complex environmental data analysis and reporting.
+* **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025 | Remote)*
+  * Applied practical ethical hacking techniques to simulate real-world attacks and recommend remediation strategies.
+* **Green Skills with AI Technologies Intern** | Edunet Foundation *(Jun 2025 - Jul 2025 | Remote)*
+  * Evaluated AI-driven solutions for optimizing environmental data analysis and reporting.
+
+---
+
+## 🎓 Education
+
+* **Vellore Institute of Technology, Bhopal** | B.Tech in Computer Science and Engineering *(2023 - Ongoing)* 
+  * **CGPA:** 8.84 / 10
+* **St. Xavier's Convent School, Lucknow** | Senior Secondary (XII), ICSE *(2022)*
+  * **Score:** 78%
+* **St. Xavier's Senior Secondary School, Gonda** | High School (X), CBSE *(2020)*
+  * **Score:** 91.4%
 
 ---
 
 ## 🏆 Key Achievements & Certifications
 
 ### 🎯 Competitions & Honors
-* **TryHackMe:** Placed 355th out of 5,947 global competitors in the Industrial-Intrusion CTF.
+* **APCSIP-2026:** Selected for the APCSIP-2026 program for an exclusive Cyber Cell internship.
 * **Shell n'Zen CTF:** Secured 7th rank nationally, solving complex web security and reverse engineering challenges.
-* **APCSIP-2026:** Selected for the APCSIP-2026 program for a Cyber Cell internship.
+* **TryHackMe:** Placed 355th out of 5,947 global competitors in the Industrial-Intrusion CTF.
 * **Cyber For Her:** Selected for the DSCI Cyber For Her Hackathon.
 
 ### 📜 Certifications
