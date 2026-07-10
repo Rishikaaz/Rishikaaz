@@ -62,10 +62,10 @@
 
 ---
 
-## 🏙️ Isometric Contribution Workspace
+## 📊 GitHub Metrics & Impact
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Rishikaaz&theme=radical" alt="Rishika's 3D Contributions" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikaaz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rishika's GitHub Stats" width="450" />
 </p>
 
 ---
