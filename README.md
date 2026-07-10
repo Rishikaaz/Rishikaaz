@@ -20,22 +20,31 @@
 
 ## 🛠️ Tools & Languages
 
-### 💻 Technical Skills
-
-| Category | Languages / Frameworks / OS / Concepts |
-| :--- | :--- |
-| **Languages** | C++, Bash Scripting, C, C#, Python, SQL |
-| **Cloud, Container & SIEM** | AWS (EC2, Lambda, S3), Docker, ELK Stack, Splunk |
-| **Specialized Domains** | Reverse Engineering, Malware Analysis, Computer Networks, OWASP, OSI Model |
-| **OS** | Linux (Kali), Windows |
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🛡️ Security Tools
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6600?style=flat-square&logo=portswigger&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=network&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F5A94?style=flat-square&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-002A3A?style=flat-square&logo=tenable&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-E11212?style=flat-square&logo=reverse-engineering&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=green)
 
-| Tool Type | Tools Used |
-| :--- | :--- |
-| **Vulnerability Scanning & Analysis** | Nessus, Nmap, Wireshark, BurpSuite |
-| **Exploitation & Cracking** | Metasploit, Hashcat |
-| **Reverse Engineering & Forensics** | Ghidra, Scapy |
+### ☁️ Cloud, Containers & SIEM Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white)
+
+### 🧠 Core Concepts
+`Reverse Engineering` • `Malware Analysis` • `Computer Networks` • `OWASP Top 10` • `OSI Model`
 
 ---
 
