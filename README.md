@@ -62,11 +62,10 @@
 
 ---
 
-## 📊 GitHub Metrics & Impact
+## ⚡ Core Focus & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.shield-b.workers.dev/api?username=Rishikaaz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rishika's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shield-b.workers.dev/api/top-langs/?username=Rishikaaz&layout=compact&theme=tokyonight&hide_border=true" alt="Rishika's Top Languages" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=🎓+B.Tech+Computer+Science+and+Engineering;🔒+Specializing+in+Cybersecurity+%26+Digital+Forensics;🚀+Solved+270%2B+LeetCode+Problems;💻+Building+Containerized+SIEM+%26+ML+Pipelines" alt="Typing SVG Animation" />
 </p>
 
 ---
