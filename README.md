@@ -62,23 +62,6 @@
 
 ---
 
-## ⚡ System Core & Active Telemetry
-
-> [!NOTE]
-> ### 🖥️ **RISHIKA_PATEL // SECURITY CONTROL PANEL**
-> 🟢 **SYSTEM STATUS:** ACTIVE | 🌐 **NODE:** VIT_BHOPAL_UNIV
-> 
-> ```🛠️ ARCHITECTURE STATUS
-> ├─ [🎓] FIELD: B.Tech — Computer Science & Engineering
-> ├─ [🔒] SPEC:  Cybersecurity & Digital Forensics
-> ├─ [🚀] ALGO:  270+ LeetCode Solutions // Contesting Active
-> └─ [💻] DEPLOY: Containerized HIDS Sensors, SIEM (ELK Stack) & ML Pipelines
-> ```
-> 
-> *⚡ Running diagnostics... packet interception and behavioral rule validation complete.*
-
----
-
 ## 💼 Experience & Internships
 
 * **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025 | Remote)*
