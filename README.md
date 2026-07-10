@@ -62,15 +62,20 @@
 
 ---
 
-## ⚡ Core Focus & Metrics
+## ⚡ System Core & Active Telemetry
 
-<p align="center">
-  <code>
-    <marquee behavior="scroll" direction="left" scrollamount="4" style="color: #39FF14; font-family: 'Fira Code', monospace; font-size: 18px;">
-      🎓 B.Tech Computer Science and Engineering &nbsp;&nbsp;•&nbsp;&nbsp; 🔒 Specializing in Cybersecurity & Digital Forensics &nbsp;&nbsp;•&nbsp;&nbsp; 🚀 Solved 270+ LeetCode Problems &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Building Containerized SIEM & ML Pipelines
-    </marquee>
-  </code>
-</p>
+> [!NOTE]
+> ### 🖥️ **RISHIKA_PATEL // SECURITY CONTROL PANEL**
+> 🟢 **SYSTEM STATUS:** ACTIVE | 🌐 **NODE:** VIT_BHOPAL_UNIV
+> 
+> ```🛠️ ARCHITECTURE STATUS
+> ├─ [🎓] FIELD: B.Tech — Computer Science & Engineering
+> ├─ [🔒] SPEC:  Cybersecurity & Digital Forensics
+> ├─ [🚀] ALGO:  270+ LeetCode Solutions // Contesting Active
+> └─ [💻] DEPLOY: Containerized HIDS Sensors, SIEM (ELK Stack) & ML Pipelines
+> ```
+> 
+> *⚡ Running diagnostics... packet interception and behavioral rule validation complete.*
 
 ---
 
