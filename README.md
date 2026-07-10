@@ -65,7 +65,8 @@
 ## 📊 GitHub Metrics & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikaaz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rishika's GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.shield-b.workers.dev/api?username=Rishikaaz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rishika's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shield-b.workers.dev/api/top-langs/?username=Rishikaaz&layout=compact&theme=tokyonight&hide_border=true" alt="Rishika's Top Languages" width="48%" />
 </p>
 
 ---
