@@ -48,6 +48,10 @@
 
 ---
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 💼 Experience & Internships
 
 * **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025 | Remote)*
