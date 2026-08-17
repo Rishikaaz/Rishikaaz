@@ -14,7 +14,7 @@
 - 🔒 **Security Specialist:** Hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Malware Analysis, and Reverse Engineering. Skilled in deploying containerized SIEM architectures using the ELK Stack.
 - 🚀 **Problem Solver:** Solved 400+ LeetCode problems and actively competing in Codeforces contests (Max Rating: 902).
 - 🏆 **CTF & Bug Bounty:** Top 2% globally on TryHackMe (177-day streak) | Ranked 355th/5,947 in Industrial-Intrusion CTF | Earned the Fastest Fix Badge on OpenBugBounty for responsible XSS disclosure.
-- 🌱 **Currently learning:** Advanced threat hunting tactics and keeping up my Japanese language streak on Duolingo.
+- 🌱 **Currently learning:** Advanced threat hunting tactics and practicing my DSA.
 
 ---
 
