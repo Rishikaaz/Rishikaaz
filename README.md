@@ -72,8 +72,6 @@
 
 * **Cyber Security and Ethical Hacking Intern** | Tamizhan Skills *(Jun 2025 - Jul 2025 | Remote)*
   * Developed 6+ proof-of-concept Python security tools, including multi-port socket scanners, file-encryption utilities, and AES-encrypted communication channels.
-* **Green Skills with AI Technologies Intern** | Edunet Foundation *(Jun 2025 - Jul 2025 | Remote)*
-  * Engineered data preprocessing and feature selection pipelines in Python for environmental datasets, boosting report generation efficiency by 25%.
 
 ---
 
