@@ -52,23 +52,7 @@
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikaaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💻 Key Projects
-
-* **Containerized HIDS & SIEM Pipeline** `Python` `Docker` `ELK Stack` `Scapy` `Linux` `Nmap`
-  * Spearheaded a containerized SIEM architecture using Docker Compose, optimizing host CPU/RAM overhead by reducing resource consumption by 40% through strategic VM migration.
-  * Developed a high-throughput Python HIDS sensor using Scapy to capture live traffic and stream real-time JSON alerts over TCP.
-* **Vulnerability Management Platform** `Python` `SQLite` `Network Security` `Socket Programming`
-  * Engineered a modular vulnerability management platform in Python automating network reconnaissance, asynchronous port scanning, CVE signature matching, and HTTP header auditing.
-  * Integrated SQLite database schemas to track, correlate, and index system vulnerabilities over time, cutting manual reporting effort by 50%.
-  * Enhanced an automated security reporting engine that aggregates structured database findings into executive-level vulnerability assessment reports.
-* **AI-Powered Behavioral Anomaly Detection** `Python` `Scikit-learn` `Scapy` `Networking`
-  * Built an end-to-end threat detection pipeline that captures raw network packets using Scapy, converts them into behavioral features, and passes them to unsupervised models.
-  * Trained the system on baseline network traffic to identify subtle zero-day anomalies and multi-stage attack patterns that traditional signature-based rules miss.
-  * Streamed real-time JSON alert logs directly into SIEM workflows, cutting down false positives and enabling immediate incident response by 60%.
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikaaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ---
 
