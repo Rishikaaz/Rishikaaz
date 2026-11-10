@@ -2,19 +2,23 @@
 
 > "Passionate about protecting the digital world, one byte at a time."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishika-patel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-patel-854ba5289/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishika.patel2419@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishikaaz)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Rishikaaz)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishikaaz)
 
 ---
 
-🎓 **B.Tech in Computer Science and Engineering (Cyber Security) | Vellore Institute of Technology, Bhopal**
+🎓 **B.Tech in Computer Science and Engineering (Specialization: Cyber Security and Digital Forensics) | Vellore Institute of Technology, Bhopal**
 
-- 🔒 **Security Specialist:** Hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Malware Analysis, and Reverse Engineering. Skilled in deploying containerized SIEM architectures using the ELK Stack.
-- 🚀 **Problem Solver:** Solved 400+ LeetCode problems and actively competing in Codeforces contests (Max Rating: 902).
-- 🏆 **CTF & Bug Bounty:** Top 2% globally on TryHackMe (177-day streak) | Ranked 355th/5,947 in Industrial-Intrusion CTF | Earned the Fastest Fix Badge on OpenBugBounty for responsible XSS disclosure.
-- 🌱 **Currently learning:** Advanced threat hunting tactics and practicing my DSA.
+- 🔒 **Security Specialist:** Hands-on experience in Vulnerability Assessment, Penetration Testing (VAPT), Malware Analysis, Reverse Engineering, Threat Detection, CVE, and Web Application Security. Skilled in deploying containerized SIEM architectures using the ELK Stack.
+
+- 🚀 **Problem Solver & Full-Stack Developer:** Solved 400+ LeetCode problems, actively competing in Codeforces contests (Max Rating: 902), and experienced in Full-Stack Development (Node.js, Express.js, React.js, Tailwind CSS, RESTful APIs, WebSockets).
+
+- 🏆 **CTF & Bug Bounty:** Top 2% globally on TryHackMe (177-day streak) | Ranked 355th/5,947 in Industrial-Intrusion CTF | Secured 7th rank nationally in Shell n'Zen CTF | Earned the Fastest Fix Badge on OpenBugBounty for responsible XSS disclosure.
+
+- 🌱 **Currently learning:** Advanced threat hunting tactics, building robust security tooling, and sharpening my DSA skills.
 
 ---
 
@@ -23,11 +27,18 @@
 ### 💻 Programming & Scripting
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🌐 Full-Stack Development
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🛡️ Security Tools & Frameworks
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6600?style=flat-square&logo=portswigger&logoColor=white)
@@ -47,43 +58,61 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🧠 Core Concepts
-`Data Structures & Algorithms (DSA)` • `Object-Oriented Programming (OOPs)` • `Operating System (OS)` • `TCP/IP & Socket Programming` • `VAPT` • `Reverse Engineering` • `Malware Analysis` • `OWASP Top 10`
+### 🧠 Core Concepts & Databases
+`Data Structures & Algorithms (DSA)` • `Object-Oriented Programming (OOPs)` • `Operating Systems (OS)` • `TCP/IP & Socket Programming` • `OSI Model` • `VAPT` • `Reverse Engineering` • `Malware Analysis` • `OWASP Top 10` • `Distributed Systems` • `SQLite` • `MySQL`
 
 ---
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikaaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikaaz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 💼 Experience & Internships
 
-* **Cyber Security Intern** | Tamizhan Skills *(Remote | Jun 2025 - Jul 2025)*
-  * Programmed 6+ proof-of-concept Python security tools, including a custom multi-port socket scanner, file-encryption utilities, and keyloggers.
-  * Conducted simulated vulnerability assessments and analyzed network traffic patterns to understand attack vectors and strengthen defensive posture.
+- **Cyber Security Intern** | Tamizhan Skills *(Remote | Jun 2025 - Jul 2025)*
+  - Engineered 6+ robust backend utility modules and automation scripts in Python, incorporating multithreaded socket handlers, cryptographic file utilities, and optimized data ingestion pipelines.
+  - Implemented asynchronous network I/O mechanisms and optimized request-response cycles to minimize latency, elevate throughput, and ensure high reliability under concurrent load.
+
+---
+
+## 🚀 Featured Projects
+
+- **Containerized HIDS & SIEM Pipeline** `Python` `Docker Compose` `ELK Stack` `Linux` `RESTful APIs`
+  - Designed and deployed a containerized microservices architecture using Docker Compose, optimizing host CPU/RAM overhead by 40% through strategic resource allocation and container memory tuning.
+  - Developed a high-performance Python daemon utilizing raw network sockets to serialize unstructured packet streams into structured JSON payloads over TCP for real-time dashboard visualization.
+
+- **Full-Stack Vulnerability Management Platform** `Python` `React.js` `Node.js` `Express.js` `SQLite` `AsyncIO`
+  - Architected a modular full-stack application utilizing non-blocking concurrency (AsyncIO) to execute automated network scans, asynchronous port enumeration, and HTTP header auditing with minimal execution delay.
+  - Designed normalized SQLite schemas and optimized database queries to track, index, and retrieve vulnerability metrics, cutting manual reporting effort by 50%.
+
+- **AI-Powered Behavioral Anomaly Detection** `Python` `Scikit-learn` `Scapy` `React.js` `Node.js`
+  - Built an end-to-end telemetry pipeline that captures network data, processes it through machine learning models, and exposes RESTful endpoints for backend consumption.
+  - Trained the system on baseline network traffic to identify subtle anomalies and multi-stage patterns, curbing false-positive reporting rates by 60% through optimized statistical thresholds.
 
 ---
 
 ## 🎓 Education
 
-* **Vellore Institute of Technology, Bhopal** | B.Tech in Computer Science Engineering (Specialization: Cyber Security) *(2023 - Ongoing)*
-  * **CGPA:** 8.84 / 10
+- **Vellore Institute of Technology, Bhopal** | B.Tech in Computer Science Engineering (Specialization: Cyber Security and Digital Forensics) *(2023 - Present)*
+  - **CGPA:** 8.84 / 10
 
 ---
 
 ## 🏆 Key Achievements & Certifications
 
 ### 🎯 Competitions & Honors
-* **OpenBugBounty:** Identified and responsibly disclosed a Cross-Site Scripting (XSS) vulnerability, earning the Fastest Fix Badge after remediation within 24 hours.
-* **Hackathons & Programs:** Received an offer letter from APCSIP-2026 for a Cyber Cell internship and participated for the DSCI Cyber For Her Hackathon. Qualified for Round 2 of Scripted By Her 2.0 and the Meesho Hackathon, and successfully cleared evaluation rounds for the Honeywell selection process.
-* **TryHackMe:** Ranked in the top 2% globally with the longest 177-day learning streak and placed 355th out of 5,947 global competitors in the Industrial-Intrusion CTF.
-* **Shell n'Zen CTF:** Secured 7th rank nationally in the Shell n'Zen CTF, solving complex web security and reverse engineering challenges.
+- **OpenBugBounty:** Identified and responsibly disclosed a critical web application vulnerability, earning the Fastest Fix Badge after remediation within 24 hours.
+- **Hackathons & Programs:** Secured an offer from APCSIP-2026 for a Cyber Cell internship and participated in major hackathons, qualifying for Round 2 of Meesho and Honeywell Hackathons (Scripted By Her 2.0) and DSCI Hackathons.
+- **TryHackMe:** Ranked in the top 2% globally with the longest 177-day learning streak and placed 355th out of 5,947 global competitors in the Industrial-Intrusion CTF.
+- **Shell n'Zen CTF:** Secured 7th rank nationally in the Shell n'Zen CTF, solving complex web security and reverse engineering challenges.
 
 ### 📜 Certifications
-* **Security & Education:** Certified Cybersecurity Educator Professional (CCEP) | Cyber Threat Management (CISCO) | Cybersecurity Job Simulation (Mastercard & Deloitte)
-* **Cloud & Infrastructure:** AWS Cloud Practitioner & AWS Skill Builder
-* **Networking:** The Bits and Bytes of Computer Networking (Coursera) | Networking Basics (CISCO)
-* **Emerging Tech:** Blockchain and its Applications (NPTEL, IIT Kharagpur)
+- **Certified Cybersecurity Educator Professional (CCEP)**
+- **AWS Cloud Practitioner & AWS Skill Builder**
+- **The Bits and Bytes of Computer Networking** — Coursera
+- **Networking Basics & Cyber Threat Management** — CISCO Networking Academy
+- **Blockchain and its Applications** — NPTEL, IIT Kharagpur
+- **Cybersecurity Job Simulation** — Mastercard & Deloitte
 
 ---
 
